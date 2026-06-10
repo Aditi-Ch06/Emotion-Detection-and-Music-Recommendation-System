@@ -8,11 +8,9 @@ The application analyzes facial expressions using a **CNN-based emotion detectio
 ---
 
 # 🚀 Live Demo
-*(Add your deployed link here once deployed)*  
 
-```
-https://your-app-link.com
-```
+Deployment currently unavailable.
+Run locally using the setup instructions below.
 
 ---
 
@@ -94,7 +92,7 @@ The emotion detection system uses a **Convolutional Neural Network (CNN)** train
 Model Details:
 
 - Input size: **48 × 48 grayscale images**
-- Architecture: CNN / Transfer Learning (MobileNetV2)
+- Architecture: CNN 
 - Output classes: **7 emotions**
 
 The predicted emotion is then used by the recommendation system.
@@ -206,6 +204,23 @@ http://localhost:8501
 6️⃣ Spotify preview players display recommended songs  
 
 ---
+
+## Results
+
+Model: MobileNetV2
+
+Dataset: FER2013
+
+Classes:
+- Angry
+- Disgust
+- Fear
+- Happy
+- Sad
+- Surprise
+- Neutral
+
+Accuracy: 66.24%
 
 # 📈 Future Improvements
 
