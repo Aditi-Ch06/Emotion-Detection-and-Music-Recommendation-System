@@ -236,12 +236,7 @@ Planned enhancements include:
 
 # 📸 Application Preview
 
-```
 <img width="1751" height="747" alt="Screenshot 2026-03-12 172010" src="https://github.com/user-attachments/assets/f8fb0fe0-30ab-4842-8a93-2d6dbf92f4a8" />
-
-```
-
----
 
 # 🎓 Internship Project
 
