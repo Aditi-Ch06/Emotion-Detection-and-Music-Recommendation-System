@@ -255,14 +255,10 @@ This project is licensed under the **MIT License**.
 **Aditi Chaudhary**
 
 GitHub:  
-```
-https://github.com/yourusername
-```
+https://github.com/Aditi-Ch06
 
 LinkedIn:  
-```
-https://linkedin.com/in/yourprofile
-```
+https://www.linkedin.com/in/aditi-chaudhary-aa7778329/
 
 ---
 
